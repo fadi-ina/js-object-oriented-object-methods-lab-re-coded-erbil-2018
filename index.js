@@ -1,3 +1,4 @@
+// do you know .. yes, you are watching me that i love her ...
 function BoardMember(name, homeState, training){
   this.name = name
   this.homeState = homeState
